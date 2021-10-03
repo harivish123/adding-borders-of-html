@@ -1,0 +1,10 @@
+body{
+    background-color:honeydew;
+    width: 400px;
+    height: 500px;
+    border-style: double;
+}
+#image{
+    width: 400px;
+    height: 500px;
+}
